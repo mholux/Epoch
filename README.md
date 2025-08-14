@@ -62,12 +62,4 @@ The application follows a clean object-oriented design:
 - `update_time()` method refreshes all time displays and schedules the next update
 - `main()` function initializes the tkinter root window and starts the application loop
 
-## Hardware Considerations
-
-Given your hardware background, this application is lightweight and suitable for:
-- Embedded systems with Python support
-- Raspberry Pi deployments
-- Low-power computing environments
-- Systems requiring accurate time synchronization displays
-
 The application uses minimal system resources and can run continuously without performance degradation.
