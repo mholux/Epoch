@@ -28,7 +28,7 @@ A Python desktop application that displays real-time information including Unix 
 
 Run the application by executing:
 ```bash
-python time_display.py
+python epoch.py
 ```
 
 The application window will open displaying:
